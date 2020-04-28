@@ -1,0 +1,51 @@
+#header{
+    position: fixed;
+  }
+  #header-img{
+    
+  }
+  .header img{
+    float: left;
+    width: 150px;
+    height: 50%;
+  }
+  .header h1{
+    position: fixed;
+    top: 0px;
+    left: 160px;
+  }
+  #nav-bar{
+    position: fixed;
+    top: 0;
+    left: 0px;
+    width: 100%;
+    text-align: right;
+  }
+  #display{
+    display: block;
+    width: auto;
+    height: 100px;
+    text-align: center;
+  }
+  #video{
+    
+  }
+  #form{
+    display: block;
+    position: relative;
+    text-align: center;
+    top: 300px;
+  }
+  #submit{
+    
+  }
+  @media only screen and (max-width: 600px){
+  }
+  .flex-container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    position: relative;
+    top: 170px;
+  }
